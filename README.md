@@ -1,4 +1,3 @@
-# My-Very-First-Repository
-It's all said in Repository name :)
+# my_repo
 What's up guys? King Artur here.
-Finally have Internet in Camelot, starting my WWW adventure right away!
+Finally have Internet in Camelot!
